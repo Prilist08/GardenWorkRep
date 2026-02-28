@@ -1,0 +1,16 @@
+D:\Garden\AarushJannatGarden\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.deps.json
+D:\Garden\AarushJannatGarden\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.dll
+D:\Garden\AarushJannatGarden\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Application\bin\Debug\net8.0\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenERP.Application\bin\Debug\net8.0\GardenERP.Domain.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.csproj.AssemblyReference.cache
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.AssemblyInfoInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.AssemblyInfo.cs
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.csproj.CoreCompileInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.sourcelink.json
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenER.BDCE2291.Up2Date
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.dll
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\refint\GardenERP.Application.dll
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\ref\GardenERP.Application.dll

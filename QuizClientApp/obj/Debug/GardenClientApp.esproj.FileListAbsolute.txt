@@ -1,0 +1,2 @@
+D:\Garden\AarushJannatGarden\QuizClientApp\obj\Debug\GardenClientApp.esproj.CoreCompileInputs.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\QuizClientApp\obj\Debug\GardenClientApp.esproj.CoreCompileInputs.cache

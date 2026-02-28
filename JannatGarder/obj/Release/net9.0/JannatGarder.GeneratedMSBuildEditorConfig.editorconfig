@@ -1,0 +1,137 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = JannatGarder
+build_property.RootNamespace = JannatGarder
+build_property.ProjectDir = D:\Garden\AarushJannatGarden\JannatGarder\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Garden\AarushJannatGarden\JannatGarder
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Enquiry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW5xdWlyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Events/BirthdayAndAnniversary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEJpcnRoZGF5QW5kQW5uaXZlcnNhcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Events/CorporateEvents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXENvcnBvcmF0ZUV2ZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Events/EngagementAndRingCeremony.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEVuZ2FnZW1lbnRBbmRSaW5nQ2VyZW1vbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Events/WeddingAndReception.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXFdlZGRpbmdBbmRSZWNlcHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Gallery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Gallery/Photo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxQaG90by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Gallery/Video.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FsbGVyeVxWaWRlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/BanquetHall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcQmFucXVldEhhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/CateringSupport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcQ2F0ZXJpbmdTdXBwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/EventManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRXZlbnRNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/PremiumLighting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcUHJlbWl1bUxpZ2h0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/SoundAndDJ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcU291bmRBbmRESi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Services/ThemeDecorations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcVGhlbWVEZWNvcmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Venues/ACBanquetHall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEFDQmFucXVldEhhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Venues/GardenLawn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEdhcmRlbkxhd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Venues/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Venues/SeatingLayouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudWVzXFNlYXRpbmdMYXlvdXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Garden/AarushJannatGarden/JannatGarder/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tdpfx6uic5

@@ -1,0 +1,44 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "ProjectPath": "D:\\Garden\\AarushJannatGarden\\AarushJannatGarden.Server",
+   "Tables": [
+      {
+         "Name": "[perfect_garden].[Category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Items]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Purchase]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Purchase_Details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Services]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[StockTransaction]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[StockUsages]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Suppliers]",
+         "ObjectType": 0
+      }
+   ]
+}

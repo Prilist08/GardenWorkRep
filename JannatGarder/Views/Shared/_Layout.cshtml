@@ -1,0 +1,235 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Jannat Garder</title>
+    <script type="importmap"></script>
+
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="~/css/fonts.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="topbar py-2">
+        <div class="container d-flex flex-wrap gap-2 justify-content-between align-items-center">
+            <div class="d-flex flex-wrap gap-1 align-items-left">
+                <div class="chip" href="tel:+917870105111"><i class="fa-solid fa-phone me-2"></i>+91 78701 05111,&ensp; 78701 05333</div>
+                <span class="chip"><i class="fa-solid fa-location-dot me-2"></i>Sonepur, Saran, Bihar</span>
+                <a class="chip" href="mailto:gardenjannat@gmail.com"><i class="fa-solid fa-envelope me-2"></i>gardenjannat@gmail.com</a>
+
+            </div>
+            <div class="d-flex gap-2 chip">
+                @*  <a class="chip" target="_blank" href="https://wa.me/917870105111"><i class="fa-brands fa-whatsapp me-2"></i></a> *@
+                <a asp-action="Index" asp-controller="Home">Home</a> |
+                <a asp-action="Index" asp-controller="Contact">Contact</a>
+            </div>
+        </div>
+    </div>
+    @*  <div class="footer-bottom">
+            Home | About Us | 
+        </div> *@
+
+    <!-- Navbar with Gallery Dropdown -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid px-4 px-lg-5">
+            <a class="navbar-brand" href="#">Jannat Garden</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Home"><i class="fas fa-home"></i>Home </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="About"><i class="fas fa-info-circle"></i>About Us </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Venues"> <i class="fas fa-cogs"></i>Venues</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Events">   <i class="fas fa-cogs"></i>Events</a>
+                    </li>
+                    @*  <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#services" id="servicesDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fas fa-cogs"></i>Venues
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Venues" asp-fragment="garden">Garden Lawn</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Venues" asp-fragment="acbanquet">AC Banquet Hall</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Venues" asp-fragment="seating">Seating Layouts</a></li>
+
+                        </ul>
+                    </li> *@
+                    @*  <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fas fa-cogs"></i>Events
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                           
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Events" asp-fragment="garden">Wedding & Reception</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Events" asp-fragment="acbanquet">Engagement & Ring Ceremon</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Events" asp-fragment="seating">Birthday & Anniversary</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Events" asp-fragment="seating">Corporate Events</a></li>
+
+                        </ul>
+                    </li> *@
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Services"> <i class="fas fa-cogs"></i>Services</a>
+                    </li>
+                    @*  <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#services" id="servicesDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fas fa-cogs"></i>Services
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="garden">Banquet Hall</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="acbanquet">Theme Decorations</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="garden">Premium Lighting</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="acbanquet">Sound & DJ</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="garden">Catering Support</a></li>
+                            <li><a class="dropdown-item" asp-action="Index" asp-controller="Services" asp-fragment="seating">Event Management</a></li>
+                        </ul>
+                    </li> *@
+                    @*   <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="About"><i class="fas fa-info-circle"></i>Packages & Pricing </a>
+                    </li> *@
+                    <!-- Gallery Dropdown -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-action="Index" asp-controller="Gallery">  <i class="fas fa-images"></i>Gallery </a>
+
+
+                    </li>
+                    @*    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#gallery" id="galleryDropdown" role="button"
+                           data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="fas fa-images"></i>Gallery
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
+                            <li>
+                                <a class="dropdown-item" asp-action="Photo" asp-controller="Gallery"><i class="fas fa-images me-2"></i>Photo Gallery</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" asp-action="Video" asp-controller="Gallery"><i class="fas fa-video me-2"></i>Videos Gallery</a>
+                            </li>
+                            <!--<li><a class="dropdown-item" href="#contact"><i class="fas fa-map-marker-alt me-2"></i>
+                                    Location</a></li>
+                            <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#contactModal">
+                                    <i class="fas fa-envelope me-2"></i> Enquiry Form</a></li>-->
+                        </ul>
+                    </li>
+                    <!--<li class="nav-item">
+                        <a class="nav-link" href="#videos"><i class="fas fa-video"></i> VIDEOS </a>
+                    </li>-->
+                  @*   <li class="nav-item">
+                        <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#contactModal">
+                            <i class="fas fa-envelope"></i>Contact
+                        </a>
+                    </li> *@
+                </ul>
+                <a asp-action="Index" asp-controller="Enquiry" class="btn enquiry-btn" data-bs-toggle="modal" data-bs-target="#contactModal">
+
+                    Enquiry
+                </a>
+            </div>
+        </div>
+    </nav>
+
+
+    @RenderBody()
+
+
+    <footer class="footer">
+        <div class="footer-container">
+
+            <!-- About -->
+            <div class="footer-box">
+                <h2>Jannat Garden</h2>
+                <p>
+                    A premium destination for weddings, receptions, and grand celebrations.
+                    Where every event turns into a beautiful memory.
+                </p>
+                <h6>Follow Us</h6>
+                <div class="social-icons">
+                    <a href="https://www.facebook.com/aarushgarden/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/aarushgardensonpur/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/watch?v=3lG9lu9su7M" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                </div>
+            </div>
+
+            <!-- Quick Links -->
+            <!-- Contact -->
+            <div class="footer-box">
+                <h3>Find Us</h3>
+                <p><i class="fa-solid fa-location-dot"></i> Nawlakha Mandir Road, Sonepur Saran, Bihar-841101</p>
+                <p><i class="fa-solid fa-phone"></i> +91 78701 05111, 78701 05333<br>+91 78701 05444, 99597 73106</p>
+
+
+                <p><i class="fa-solid fa-envelope"></i> gardenjannat@gmail.com</p>
+            </div>
+            <div class="footer-box">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Jannat Garden</a></li>
+                    <li><a href="#">Events Gallery</a></li>
+                    <li><a href="#">Get A Enquiry</a></li>
+
+                </ul>
+            </div>
+            <!-- Social -->
+            <div class="footer-box">
+                <h3>Event Services</h3>
+                <ul>
+
+                    <li><a href="#">Custom Menu Planning</a></li>
+                    <li><a href="#">Weddings & Receptions</a></li>
+                    <li><a href="#">Corporate Events</a></li>
+                    <li><a href="#">Catering Services</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="footer-bottom">
+            © 2026 Jannat Garden | Designed by:  <a href="https://perfectitspot.com/" target="_blank"> <strong>Perfect IT Spot</strong></a>
+        </div>
+    </footer>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            document.querySelector('.navbar').classList.toggle('scrolled', window.scrollY > 80);
+        });
+
+        // Fade in sections
+        const sections = document.querySelectorAll('.fade-section');
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+        }
+        });
+        }, { threshold: 0.15 });
+
+        sections.forEach(section => observer.observe(section));
+
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

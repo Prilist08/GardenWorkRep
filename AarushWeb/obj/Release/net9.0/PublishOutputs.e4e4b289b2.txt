@@ -1,0 +1,7 @@
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\AarushWeb.exe
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\AarushWeb.dll
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\AarushWeb.deps.json
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\AarushWeb.runtimeconfig.json
+D:\Garden\AarushJannatGarden\AarushWeb\obj\Release\net9.0\PubTmp\Out\AarushWeb.pdb

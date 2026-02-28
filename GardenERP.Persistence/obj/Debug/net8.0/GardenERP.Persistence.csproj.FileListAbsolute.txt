@@ -1,0 +1,12 @@
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\bin\Debug\net8.0\GardenERP.Persistence.deps.json
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\bin\Debug\net8.0\GardenERP.Persistence.dll
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\bin\Debug\net8.0\GardenERP.Persistence.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.AssemblyInfoInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.AssemblyInfo.cs
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.csproj.CoreCompileInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.sourcelink.json
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.dll
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\refint\GardenERP.Persistence.dll
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\GardenERP.Persistence.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Persistence\obj\Debug\net8.0\ref\GardenERP.Persistence.dll

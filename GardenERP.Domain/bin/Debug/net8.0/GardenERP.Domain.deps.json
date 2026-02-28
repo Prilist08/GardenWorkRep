@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GardenERP.Domain/1.0.0": {
+        "runtime": {
+          "GardenERP.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GardenERP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

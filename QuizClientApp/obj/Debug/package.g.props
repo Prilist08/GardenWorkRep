@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <PropertyGroup>
+    <PackageJsonName Condition="$(PackageJsonName) == ''">gradient-able-free-angular-admin-template</PackageJsonName>
+    <PackageJsonVersion Condition="$(PackageJsonVersion) == ''">5.5.0</PackageJsonVersion>
+    <PackageJsonAuthor Condition="$(PackageJsonAuthor) == ''">CodedThemes</PackageJsonAuthor>
+    <PackageJsonScriptsNg Condition="$(PackageJsonScriptsNg) == ''">ng</PackageJsonScriptsNg>
+    <PackageJsonScriptsStart Condition="$(PackageJsonScriptsStart) == ''">ng serve</PackageJsonScriptsStart>
+    <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">ng build</PackageJsonScriptsBuild>
+    <PackageJsonScriptsBuildProd Condition="$(PackageJsonScriptsBuildProd) == ''">ng build --configuration production --base-href /demos/admin-templates/gradient-able/angular/free/</PackageJsonScriptsBuildProd>
+    <PackageJsonScriptsWatch Condition="$(PackageJsonScriptsWatch) == ''">ng build --watch --configuration development</PackageJsonScriptsWatch>
+    <PackageJsonScriptsTest Condition="$(PackageJsonScriptsTest) == ''">ng test</PackageJsonScriptsTest>
+    <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">ng lint</PackageJsonScriptsLint>
+    <PackageJsonScriptsLintFix Condition="$(PackageJsonScriptsLintFix) == ''">ng lint --fix</PackageJsonScriptsLintFix>
+    <PackageJsonScriptsPrettier Condition="$(PackageJsonScriptsPrettier) == ''">prettier --write src/</PackageJsonScriptsPrettier>
+    <PackageJsonPrivate Condition="$(PackageJsonPrivate) == ''">true</PackageJsonPrivate>
+    <PackageJsonDependenciesAngularAnimations Condition="$(PackageJsonDependenciesAngularAnimations) == ''">21.0.5</PackageJsonDependenciesAngularAnimations>
+    <PackageJsonDependenciesAngularCdk Condition="$(PackageJsonDependenciesAngularCdk) == ''">21.0.3</PackageJsonDependenciesAngularCdk>
+    <PackageJsonDependenciesAngularCommon Condition="$(PackageJsonDependenciesAngularCommon) == ''">21.0.5</PackageJsonDependenciesAngularCommon>
+    <PackageJsonDependenciesAngularCompiler Condition="$(PackageJsonDependenciesAngularCompiler) == ''">21.0.5</PackageJsonDependenciesAngularCompiler>
+    <PackageJsonDependenciesAngularCore Condition="$(PackageJsonDependenciesAngularCore) == ''">21.0.5</PackageJsonDependenciesAngularCore>
+    <PackageJsonDependenciesAngularForms Condition="$(PackageJsonDependenciesAngularForms) == ''">21.0.5</PackageJsonDependenciesAngularForms>
+    <PackageJsonDependenciesAngularLocalize Condition="$(PackageJsonDependenciesAngularLocalize) == ''">21.0.5</PackageJsonDependenciesAngularLocalize>
+    <PackageJsonDependenciesAngularPlatformBrowser Condition="$(PackageJsonDependenciesAngularPlatformBrowser) == ''">21.0.5</PackageJsonDependenciesAngularPlatformBrowser>
+    <PackageJsonDependenciesAngularPlatformBrowserDynamic Condition="$(PackageJsonDependenciesAngularPlatformBrowserDynamic) == ''">21.0.5</PackageJsonDependenciesAngularPlatformBrowserDynamic>
+    <PackageJsonDependenciesAngularRouter Condition="$(PackageJsonDependenciesAngularRouter) == ''">21.0.5</PackageJsonDependenciesAngularRouter>
+    <PackageJsonDependenciesNgBootstrapNgBootstrap Condition="$(PackageJsonDependenciesNgBootstrapNgBootstrap) == ''">20.0.0</PackageJsonDependenciesNgBootstrapNgBootstrap>
+    <PackageJsonDependenciesPopperjsCore Condition="$(PackageJsonDependenciesPopperjsCore) == ''">2.11.8</PackageJsonDependenciesPopperjsCore>
+    <PackageJsonDependenciesApexcharts Condition="$(PackageJsonDependenciesApexcharts) == ''">5.3.6</PackageJsonDependenciesApexcharts>
+    <PackageJsonDependenciesBootstrap Condition="$(PackageJsonDependenciesBootstrap) == ''">5.3.8</PackageJsonDependenciesBootstrap>
+    <PackageJsonDependenciesHammerjs Condition="$(PackageJsonDependenciesHammerjs) == ''">2.0.8</PackageJsonDependenciesHammerjs>
+    <PackageJsonDependenciesJquery Condition="$(PackageJsonDependenciesJquery) == ''">3.7.1</PackageJsonDependenciesJquery>
+    <PackageJsonDependenciesLodashEs Condition="$(PackageJsonDependenciesLodashEs) == ''">4.17.21</PackageJsonDependenciesLodashEs>
+    <PackageJsonDependenciesMousetrap Condition="$(PackageJsonDependenciesMousetrap) == ''">1.6.5</PackageJsonDependenciesMousetrap>
+    <PackageJsonDependenciesNgApexcharts Condition="$(PackageJsonDependenciesNgApexcharts) == ''">2.0.4</PackageJsonDependenciesNgApexcharts>
+    <PackageJsonDependenciesNgxScrollbar Condition="$(PackageJsonDependenciesNgxScrollbar) == ''">18.0.0</PackageJsonDependenciesNgxScrollbar>
+    <PackageJsonDependenciesRxjs Condition="$(PackageJsonDependenciesRxjs) == ''">7.8.2</PackageJsonDependenciesRxjs>
+    <PackageJsonDependenciesTslib Condition="$(PackageJsonDependenciesTslib) == ''">2.8.1</PackageJsonDependenciesTslib>
+    <PackageJsonDevdependenciesAngularDevkitBuildAngular Condition="$(PackageJsonDevdependenciesAngularDevkitBuildAngular) == ''">21.0.3</PackageJsonDevdependenciesAngularDevkitBuildAngular>
+    <PackageJsonDevdependenciesAngularEslintBuilder Condition="$(PackageJsonDevdependenciesAngularEslintBuilder) == ''">21.1.0</PackageJsonDevdependenciesAngularEslintBuilder>
+    <PackageJsonDevdependenciesAngularEslintEslintPlugin Condition="$(PackageJsonDevdependenciesAngularEslintEslintPlugin) == ''">21.1.0</PackageJsonDevdependenciesAngularEslintEslintPlugin>
+    <PackageJsonDevdependenciesAngularEslintEslintPluginTemplate Condition="$(PackageJsonDevdependenciesAngularEslintEslintPluginTemplate) == ''">21.1.0</PackageJsonDevdependenciesAngularEslintEslintPluginTemplate>
+    <PackageJsonDevdependenciesAngularEslintSchematics Condition="$(PackageJsonDevdependenciesAngularEslintSchematics) == ''">21.1.0</PackageJsonDevdependenciesAngularEslintSchematics>
+    <PackageJsonDevdependenciesAngularEslintTemplateParser Condition="$(PackageJsonDevdependenciesAngularEslintTemplateParser) == ''">21.1.0</PackageJsonDevdependenciesAngularEslintTemplateParser>
+    <PackageJsonDevdependenciesAngularCli Condition="$(PackageJsonDevdependenciesAngularCli) == ''">21.0.3</PackageJsonDevdependenciesAngularCli>
+    <PackageJsonDevdependenciesAngularCompilerCli Condition="$(PackageJsonDevdependenciesAngularCompilerCli) == ''">21.0.5</PackageJsonDevdependenciesAngularCompilerCli>
+    <PackageJsonDevdependenciesEslintEslintrc Condition="$(PackageJsonDevdependenciesEslintEslintrc) == ''">3.3.3</PackageJsonDevdependenciesEslintEslintrc>
+    <PackageJsonDevdependenciesEslintJs Condition="$(PackageJsonDevdependenciesEslintJs) == ''">^9.39.2</PackageJsonDevdependenciesEslintJs>
+    <PackageJsonDevdependenciesTypesLodashEs Condition="$(PackageJsonDevdependenciesTypesLodashEs) == ''">4.17.12</PackageJsonDevdependenciesTypesLodashEs>
+    <PackageJsonDevdependenciesTypesNode Condition="$(PackageJsonDevdependenciesTypesNode) == ''">25.0.1</PackageJsonDevdependenciesTypesNode>
+    <PackageJsonDevdependenciesTypescriptEslintEslintPlugin Condition="$(PackageJsonDevdependenciesTypescriptEslintEslintPlugin) == ''">8.49.0</PackageJsonDevdependenciesTypescriptEslintEslintPlugin>
+    <PackageJsonDevdependenciesTypescriptEslintParser Condition="$(PackageJsonDevdependenciesTypescriptEslintParser) == ''">8.49.0</PackageJsonDevdependenciesTypescriptEslintParser>
+    <PackageJsonDevdependenciesAngularCliGhpages Condition="$(PackageJsonDevdependenciesAngularCliGhpages) == ''">^2.0.3</PackageJsonDevdependenciesAngularCliGhpages>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">9.39.2</PackageJsonDevdependenciesEslint>
+    <PackageJsonDevdependenciesPrettier Condition="$(PackageJsonDevdependenciesPrettier) == ''">3.7.4</PackageJsonDevdependenciesPrettier>
+    <PackageJsonDevdependenciesTypescript Condition="$(PackageJsonDevdependenciesTypescript) == ''">5.9.3</PackageJsonDevdependenciesTypescript>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+D:\Garden\AarushJannatGarden\GardenERP.Domain\bin\Debug\net9.0\GardenERP.Domain.deps.json
+D:\Garden\AarushJannatGarden\GardenERP.Domain\bin\Debug\net9.0\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenERP.Domain\bin\Debug\net9.0\GardenERP.Domain.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.AssemblyInfoInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.AssemblyInfo.cs
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.csproj.CoreCompileInputs.cache
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\refint\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.pdb
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\ref\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net9.0\GardenERP.Domain.sourcelink.json

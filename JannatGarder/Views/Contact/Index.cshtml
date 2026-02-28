@@ -1,0 +1,109 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Contact";
+}
+<section>
+    <div style="height:400px">
+        <div class="carousel-inner">
+            <div class="carousel-item active"
+                 style="background-image: url('images/head3.png'); height:400px">
+                <div class="carousel-caption">
+                    <div style="margin-bottom:50px"><br /><br /></div>
+                    <h3>Contact Details- Jannat Garden</h3>
+                    <p>Perfect Venue for Your Special Day</p>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<!-- About -->
+<section id="about" class="py-5 fade-section" style="background: #fdfaf5; position: relative; overflow: hidden;">
+    <!-- Background watermark text -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 18rem; font-weight: 900; color: rgba(184, 134, 11, 0.06); pointer-events: none; user-select: none; white-space: nowrap; z-index: 0; font-family: 'Playfair Display', serif;">
+        Contact Details
+    </div>
+
+    <div class="container position-relative" style="z-index: 1;">
+
+        <div class="row justify-content-center align-items-center g-5">
+            <!-- Text Column -->
+            <div class="col-lg-6">
+                
+                <div style="background: rgba(255, 255, 255, 0.9); padding: 40px 35px; border-radius: 15px; box-shadow: 0 10px 35px rgba(0,0,0,0.08); border: 1px solid rgba(184, 134, 11, 0.15);">
+                    <h5 style="font-size: 1.8rem; color: var(--gold); font-weight: 700; letter-spacing: 2px; margin-bottom: 0.5rem;">Jannat Garden</h5>
+                    <div style="padding-left:10px;padding-top:20px;padding-bottom:20px;font-size:revert"><i class="fa-solid fa-location-dot me-2"></i> Nawlakha Mandir Road, Sonepur Saran, Bihar-841101</div>
+                    <div style="padding-left:10px;padding-bottom:20px;font-size:revert">
+                        <i class="fa-solid fa-phone me-2"></i>
+                        +91 78701 05111, 78701 05333,
+                        7870105444, 9959773106
+                    </div>
+                    <div style="padding-left:10px;padding-bottom:20px;font-size:revert"><i class="fa-solid fa-envelope me-2"></i>gardenjannat@gmail.com</div>
+                  
+
+                </div>
+                <div style="margin-top:10px; background: rgba(255, 255, 255, 0.9); padding: 20px 15px; border-radius: 10px; box-shadow: 0 10px 35px; border: 1px solid rgba(184, 134, 11, 0.15);">
+                   
+                   
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.550997844836!2d85.18764507432132!3d25.686174777399444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed5bd39af6a6c5%3A0xda74ad08c6c15424!2sJannat%20Garden%20River%20Resort!5e0!3m2!1sen!2sin!4v1771430028931!5m2!1sen!2sin"  width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    
+
+                </div>
+
+            </div>
+
+            <!-- Decorative Image Frame Column -->
+            <div class="col-lg-6 text-center">
+                <div style="position: relative; padding: 25px; background: linear-gradient(135deg, #fdfaf5, #fffaf0); border-radius: 20px; box-shadow: 0 15px 40px rgba(0,0,0,0.12); border: 8px solid #fff;">
+                    <div id="contactModal" aria-labelledby="contactModalLabel">
+                      
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h6 class="modal-title" id="contactModalLabel">Contact Form</h6>
+                                   
+                                </div>
+
+                                <div class="modal-body p-4">
+                                    <form>
+                                        <div class="mb-3">
+                                           @*  <label for="name" class="form-label">Full Name</label> *@
+                                            <input type="text" class="form-control" id="name" placeholder="Your Name" required>
+                                        </div>
+
+                                        <div class="mb-3">
+                                            @* <label for="phone" class="form-label">Phone Number</label> *@
+                                            <input type="tel" class="form-control" id="phone" placeholder="Contact Number" required>
+                                        </div>
+
+                                        <div class="mb-3">
+                                            @* <label for="email" class="form-label">Email</label> *@
+                                            <input type="email" class="form-control" id="email" placeholder="your@email.com">
+                                        </div>
+
+                                        <!-- Details Textarea -->
+                                        <div class="mb-4">
+                                          @*   <label for="message" class="form-label">Event Details / Message</label> *@
+                                            <textarea class="form-control" id="message" rows="4"
+                                                      placeholder="Tell us about your event plan"></textarea>
+                                        </div>
+
+                                        <button type="submit" class="btn btn-warning btn-lg w-100">Send Enquiry</button>
+                                    </form>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+</section>

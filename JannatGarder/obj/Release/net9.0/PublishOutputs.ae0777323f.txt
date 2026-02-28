@@ -1,0 +1,7 @@
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\JannatGarder.exe
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\JannatGarder.dll
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\JannatGarder.deps.json
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\JannatGarder.runtimeconfig.json
+D:\Garden\AarushJannatGarden\JannatGarder\obj\Release\net9.0\PubTmp\Out\JannatGarder.pdb

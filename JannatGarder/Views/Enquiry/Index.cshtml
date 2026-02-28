@@ -1,0 +1,62 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Enquiry Page";
+}
+<section>
+    <div style="height:400px">
+        <div class="carousel-inner">
+            <div class="carousel-item active"
+                 style="background-image: url('images/head3.png'); height:400px">
+                <div class="carousel-caption">
+                    <div style="margin-bottom:50px"><br /><br /></div>
+                    <h3>Enquiry- Jannat Garden</h3>
+                    <p>Perfect Venue for Your Special Day</p>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+<!-- Contact Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="contactModalLabel">Enquiry / Contact Form</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body p-4">
+                <form>
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Full Name</label>
+                        <input type="text" class="form-control" id="name" placeholder="Your name" required>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Phone Number</label>
+                        <input type="tel" class="form-control" id="phone" placeholder="+91" required>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="your@email.com">
+                    </div>
+
+                    <!-- Details Textarea -->
+                    <div class="mb-4">
+                        <label for="message" class="form-label">Event Details / Message</label>
+                        <textarea class="form-control" id="message" rows="4"
+                                  placeholder="Tell us more about your event (date, venue, guest count, theme, etc.)..."></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-warning btn-lg w-100">Send Enquiry</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

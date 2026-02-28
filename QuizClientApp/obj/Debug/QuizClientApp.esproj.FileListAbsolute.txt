@@ -1,0 +1,3 @@
+D:\Projects\QuizApplication\QuizClient\QuizClientApp\obj\Debug\QuizClientApp.esproj.CoreCompileInputs.cache
+C:\Users\rakes\Downloads\QuizClient\QuizClient\QuizClientApp\obj\Debug\QuizClientApp.esproj.CoreCompileInputs.cache
+D:\Projects\QuizApplication\QuizApp\QuizClientApp\obj\Debug\QuizClientApp.esproj.CoreCompileInputs.cache
