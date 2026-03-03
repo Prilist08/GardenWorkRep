@@ -14,3 +14,19 @@ D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Ap
 D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\refint\GardenERP.Application.dll
 D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.pdb
 D:\Garden\AarushJannatGarden\GardenERP.Application\obj\Debug\net8.0\ref\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.deps.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\bin\Debug\net8.0\GardenERP.Application.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\bin\Debug\net8.0\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\bin\Debug\net8.0\GardenERP.Domain.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.csproj.AssemblyReference.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.AssemblyInfoInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.AssemblyInfo.cs
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.csproj.CoreCompileInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.sourcelink.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenER.BDCE2291.Up2Date
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\refint\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\GardenERP.Application.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Application\obj\Debug\net8.0\ref\GardenERP.Application.dll

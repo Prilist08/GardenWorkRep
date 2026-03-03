@@ -10,3 +10,15 @@ D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.
 D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net8.0\refint\GardenERP.Domain.dll
 D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.pdb
 D:\Garden\AarushJannatGarden\GardenERP.Domain\obj\Debug\net8.0\ref\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\bin\Debug\net8.0\GardenERP.Domain.deps.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\bin\Debug\net8.0\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\bin\Debug\net8.0\GardenERP.Domain.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.AssemblyInfoInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.AssemblyInfo.cs
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.sourcelink.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\refint\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\GardenERP.Domain.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Domain\obj\Debug\net8.0\ref\GardenERP.Domain.dll

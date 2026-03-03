@@ -18,3 +18,23 @@ D:\Garden\AarushJannatGarden\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP
 D:\Garden\AarushJannatGarden\GardenERP.Infrastructure\obj\Debug\net8.0\ref\GardenERP.Infrastructure.dll
 D:\Garden\AarushJannatGarden\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Application.dll
 D:\Garden\AarushJannatGarden\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Application.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Infrastructure.deps.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Infrastructure.runtimeconfig.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Infrastructure.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Infrastructure.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Application.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\bin\Debug\net8.0\GardenERP.Domain.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.AssemblyInfo.cs
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.sourcelink.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenER.4A329C10.Up2Date
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\refint\GardenERP.Infrastructure.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\GardenERP.Infrastructure.genruntimeconfig.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenERP.Infrastructure\obj\Debug\net8.0\ref\GardenERP.Infrastructure.dll
