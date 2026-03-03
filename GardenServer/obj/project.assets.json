@@ -3183,23 +3183,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rakes\\.nuget\\packages\\": {},
+    "C:\\Users\\Priyal Malviya\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Garden\\AarushJannatGarden\\GardenServer\\GardenServerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenServer\\GardenServerAPI.csproj",
       "projectName": "GardenServerAPI",
-      "projectPath": "D:\\Garden\\AarushJannatGarden\\GardenServer\\GardenServerAPI.csproj",
-      "packagesPath": "C:\\Users\\rakes\\.nuget\\packages\\",
-      "outputPath": "D:\\Garden\\AarushJannatGarden\\GardenServer\\obj\\",
+      "projectPath": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenServer\\GardenServerAPI.csproj",
+      "packagesPath": "C:\\Users\\Priyal Malviya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rakes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Priyal Malviya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3208,21 +3208,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Garden\\AarushJannatGarden\\GardenERP.Application\\GardenERP.Application.csproj": {
-              "projectPath": "D:\\Garden\\AarushJannatGarden\\GardenERP.Application\\GardenERP.Application.csproj"
+            "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Application\\GardenERP.Application.csproj": {
+              "projectPath": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Application\\GardenERP.Application.csproj"
             },
-            "D:\\Garden\\AarushJannatGarden\\GardenERP.Domain\\GardenERP.Domain.csproj": {
-              "projectPath": "D:\\Garden\\AarushJannatGarden\\GardenERP.Domain\\GardenERP.Domain.csproj"
+            "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Domain\\GardenERP.Domain.csproj": {
+              "projectPath": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Domain\\GardenERP.Domain.csproj"
             },
-            "D:\\Garden\\AarushJannatGarden\\GardenERP.Infrastructure\\GardenERP.Infrastructure.csproj": {
-              "projectPath": "D:\\Garden\\AarushJannatGarden\\GardenERP.Infrastructure\\GardenERP.Infrastructure.csproj"
+            "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Infrastructure\\GardenERP.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Priyal Malviya\\source\\repos\\GardenWorkRep\\GardenERP.Infrastructure\\GardenERP.Infrastructure.csproj"
             }
           }
         }
@@ -3277,7 +3276,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

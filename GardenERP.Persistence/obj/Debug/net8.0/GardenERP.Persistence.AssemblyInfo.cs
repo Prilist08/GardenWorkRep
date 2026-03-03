@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GardenERP.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e6c85d0a2a7b2fe8d73f27e7a6742e9bfd821a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3444e3fb26ad1fe5bb91c18249b8cdbf38b698")]
 [assembly: System.Reflection.AssemblyProductAttribute("GardenERP.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GardenERP.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
