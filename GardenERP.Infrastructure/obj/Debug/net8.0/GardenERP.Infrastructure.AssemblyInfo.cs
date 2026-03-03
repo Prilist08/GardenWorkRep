@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GardenERP.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae3444e3fb26ad1fe5bb91c18249b8cdbf38b698")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65524e150700087a84d6d51f3c9299b2a4ddc5a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GardenERP.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GardenERP.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
